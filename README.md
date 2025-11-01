@@ -37,7 +37,5 @@
 *Data Collection: Gathered open-source Electric Vehicle dataset.
 *Data Cleaning: Removed duplicates, handled missing values using Excel and SQL.
 *Data Transformation: Prepared dataset for analysis by standardizing names and values.
-
-Visualization: Built an interactive dashboard in Tableau.
-
-Insights: Extracted key findings about EV trends, top manufacturers, and CAFV eligibility.
+*Visualization: Built an interactive dashboard in Tableau.
+*Insights: Extracted key findings about EV trends, top manufacturers, and CAFV eligibility.
